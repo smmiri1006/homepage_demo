@@ -5,7 +5,7 @@ const WEATHER_API_URL = 'https://api.weatherapi.com/v1/current.json';
 
 // 检查API密钥是否已配置
 function isApiKeyConfigured() {
-    return WEATHER_API_KEY !== 'your_api_key_here';
+    return WEATHER_API_KEY !== 'c89483c3a1ee459796b133038250605';
 }
 
 // 获取天气信息
